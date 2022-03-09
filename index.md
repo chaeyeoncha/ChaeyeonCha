@@ -12,15 +12,11 @@
 
 Malware Detection of Smartphone Application Based on Machine Learning | 1st author <br>
 
-Energy Consumption Prediction Algorithm for Smart Factory Based on Multiple Parallel Weighted Models
-(##Best Awards)
-| 4th author <br>
+Energy Consumption Prediction Algorithm for Smart Factory Based on Multiple Parallel Weighted Models | 4th author <br>
 
 Prediction of Traffic Volume in Time Zone in V2X Systems</a> | 1nd author <br>
 
-Vehicle Speed Prediction Algorithm Based on Parameter Shared LSTM in V2I Systems</a>
-(##Best Awards)
-| 1st author <br>
+Vehicle Speed Prediction Algorithm Based on Parameter Shared LSTM in V2I Systems</a> | 1st author <br>
 
 ---
 
