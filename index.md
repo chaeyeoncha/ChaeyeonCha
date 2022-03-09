@@ -1,6 +1,6 @@
 ## International Conference
 
-<a href="https://drive.google.com/file/d/1HeQDT9NvR1Zg_FKij9gAvqxToWmqbkip/view?usp=sharing">Multilayered LSTM with Parameter Transfer for Vehicle Speed Data Imputation</a> | 2nd author <br>
+[Multilayered LSTM with Parameter Transfer for Vehicle Speed Data Imputation](http://example.com/) | 2nd author
 
 <a href="https://drive.google.com/file/d/1rgu-s9ayBmm7TkDw93G8s3TAcoJ6AIWx/view?usp=sharing">Bidirectional Imputation of Spatio-Temporal Data based on LSTM with Parameter Transfer</a> | 2nd author <br>
 
