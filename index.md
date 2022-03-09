@@ -1,22 +1,26 @@
 ## International Conference
-<a href="https://drive.google.com/file/d/1dTlp3x6el-hm_ZojL_NnxsCrYlZuOAZj/view?usp=sharing">Vehicle Speed Data Imputation based on Parameter Transferred LSTM</a> | 2nd author <br>
+
 <a href="https://drive.google.com/file/d/1HeQDT9NvR1Zg_FKij9gAvqxToWmqbkip/view?usp=sharing">Multilayered LSTM with Parameter Transfer for Vehicle Speed Data Imputation</a> | 2nd author <br>
+
 <a href="https://drive.google.com/file/d/1rgu-s9ayBmm7TkDw93G8s3TAcoJ6AIWx/view?usp=sharing">Bidirectional Imputation of Spatio-Temporal Data based on LSTM with Parameter Transfer</a> | 2nd author <br>
 
----
-
-### Category Name 1 
-
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<a href="https://drive.google.com/file/d/1dTlp3x6el-hm_ZojL_NnxsCrYlZuOAZj/view?usp=sharing">Vehicle Speed Data Imputation based on Parameter Transferred LSTM</a> | 2nd author <br>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+## Domestic Conference
+
+Malware Detection of Smartphone Application Based on Machine Learning | 1st author <br>
+
+Energy Consumption Prediction Algorithm for Smart Factory Based on Multiple Parallel Weighted Models
+(##Best Awards)
+| 4th author <br>
+
+Prediction of Traffic Volume in Time Zone in V2X Systems</a> | 1nd author <br>
+
+Vehicle Speed Prediction Algorithm Based on Parameter Shared LSTM in V2I Systems</a>
+(##Best Awards)
+| 1st author <br>
 
 ---
 
